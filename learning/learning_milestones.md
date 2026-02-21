@@ -1,7 +1,8 @@
                                                      Learning Milestones 
 
-#this doc will track all my major learning achievements
-#it will essentially serve as a summary of the learning log
+Note:
+	- this doc will track all major learning achievements
+	- it will essentially serve as a summary of the learning log
 
 
 	
