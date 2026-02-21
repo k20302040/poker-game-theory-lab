@@ -1,9 +1,12 @@
                                                      Learning Milestones 
 
 
-	Note:
-		- this doc will track all major learning achievements
-		- it will essentially serve as a summary of the learning log
+Feb 21, 2026
 
+	Note:
+		- This doc will track all my major milestones
+		-It is essentially a summary of the learning log
+		
+		
 
 	
