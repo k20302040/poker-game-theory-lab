@@ -1,5 +1,13 @@
                                                      Learning Milestones 
 
+---###---
+
+___ __, 202_
+
+		- 
+
+---###---		
+
 
 Feb 21, 2026
 
@@ -8,5 +16,3 @@ Feb 21, 2026
 		- It is essentially a summary of the learning log
 		
 		
-
-	
