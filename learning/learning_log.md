@@ -138,9 +138,16 @@ Apr 6 - 12, 2026
 Apr 13 - 19, 2026
 
 	Studied:
-		- 
+		- Python basics: Unit testing (pytest), Assertions, Importance of structuring code properly
 
 	Learned:
+		- assert
+		- AssertionError
+		- pytest's outputs
+		- how to structure a test_.py file
+		- the issue with one big main() instead of smaller functions
+		- split functions in the test file for more detailed responses from pytest
+		- in the og file, make functions that return values instead of printing them. this will make unit testing possible.
 		- 
 
 	Did:
